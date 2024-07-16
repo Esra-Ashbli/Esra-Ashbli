@@ -6,13 +6,11 @@ I am enthusiastic about pursuing a career in software engineering and developmen
 * ✉️  You can contact me at [Gmail](mailto:esraa2000.1.10.a@gmail.com).
 * 🤝  Open to teaming up on frontend and Arabic language localization projects.
 
-### Skills
+### My Skills
 
 
 <p align="left">
-
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,git,laravel,py,cpp,java,php)](https://skillicons.dev)
-
 </p>
 
 
