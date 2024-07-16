@@ -10,7 +10,9 @@ I am enthusiastic about pursuing a career in software engineering and developmen
 
 
 <p align="left">
+  
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,git,laravel,py,cpp,java,php)](https://skillicons.dev)
+
 </p>
 
 
