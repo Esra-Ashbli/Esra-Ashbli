@@ -12,7 +12,7 @@ I am enthusiastic about pursuing a career in software engineering and developmen
 <p align="left">
   
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,git,laravel,py,cpp,java,php)](https://skillicons.dev)
-[![m2](https://icons.iconarchive.com/icons/mybaco/baco-flurry/256/XAMPP-icon.png)]
+![m2](https://icons.iconarchive.com/icons/mybaco/baco-flurry/256/XAMPP-icon.png)
 
 </p>
 
