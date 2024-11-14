@@ -1,5 +1,5 @@
 ## Hi there 👋 I'am Esra'a Alshbli
-Front-end Developer
+Front-end Designer & Developer
 <br>
 I am enthusiastic about pursuing a career in software engineering and development. I am eager to learn and develop my abilities with the support of experienced mentors.
 
